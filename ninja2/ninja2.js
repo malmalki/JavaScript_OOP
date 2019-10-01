@@ -28,5 +28,5 @@ var ninja2 = new Ninja("Nawaf");
 
 
 ninja2.punch(ninja1)
-ninja1.showStats()
+ninja1.showStats();
 ninja2.showStats();
